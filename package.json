@@ -1,0 +1,22 @@
+{
+  "name": "deep-green",
+  "displayName": "Deep Green - VSCode Theme",
+  "description": "A dark theme based with green accent",
+  "version": "0.0.1",
+  "repository": "https://github.com/Matthieu-Munoz/deep-green_VSCode-Theme",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Deep Green",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Deep Green-color-theme.json"
+      }
+    ]
+  }
+}
